@@ -1,6 +1,8 @@
 # Email Signature Instructions
 1. Download the zip folder containing all email signatures.
 2. Unzip the downloaded folder.
+![Download the zip folder](/zip-folder.png "Download the zip folder")
+
 # For GMAIL users
 1. Double clic on your template to open it in a browser (i.e. david-barrera.html)
 2. Select all text and images and copy it.
